@@ -1,0 +1,15 @@
+# netcdf-test
+
+Test of creating netcdf files in Clojure, based on the example program
+"Sfc_pres_temp_wr.java" from the NetCDF page:
+http://www.unidata.ucar.edu/software/netcdf/examples/programs/
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2012 Simon Holgate
+
+Distributed under the Eclipse Public License, the same as Clojure.
