@@ -5,7 +5,6 @@
         '(java.util ArrayList)
         '(java.io IOException))
 (use 'netcdf_write_test.core)
-(defn -main []
+(defn -main [filename]
   "Run the main program"
-  (let [filename  "/store/work/simonh/bin/clojure/sfc_pres_temp.nc"]
-    (make-file (data-file filename))))
+    (make-file (data-file filename)))
