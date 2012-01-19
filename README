@@ -6,7 +6,7 @@ http://www.unidata.ucar.edu/software/netcdf/examples/programs/
 
 ## Usage
 
-FIXME: write
+java -jar netcdf_write_test-0.0.1-standalone.jar output.nc
 
 ## License
 
